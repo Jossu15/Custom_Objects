@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Custom_Objects",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Custom_Objects::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Custom_Objects-Debug-09c5b0f55678fe46f956.json",
+					"name" : "Custom_Objects",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise1-Debug-c92c76aba4975062bcff.json",
+					"name" : "exercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise2-Debug-0137bac29f50d6f6167f.json",
+					"name" : "exercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise5-Debug-93ab7169fa0710bdd975.json",
+					"name" : "exercise5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise6-Debug-3757aad414f62ddf0988.json",
+					"name" : "exercise6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise7-Debug-a45585760a7e1557083e.json",
+					"name" : "exercise7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise8-Debug-1d1543a91626d1aa6f6d.json",
+					"name" : "exercise8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theo1-Debug-c4231dfee6f17f63446b.json",
+					"name" : "theo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theo2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theo2-Debug-d9bf435ce9ec77794d80.json",
+					"name" : "theo2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theo3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theo3-Debug-0748eb7eb348c267c2b4.json",
+					"name" : "theo3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theo4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theo4-Debug-47eed5b601fc47a7296e.json",
+					"name" : "theo4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lenovo/Custom_Objects/cmake-build-debug",
+		"source" : "C:/Users/Lenovo/Custom_Objects"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

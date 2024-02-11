@@ -1,0 +1,13 @@
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/Custom_Objects.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/theo1.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/theo2.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/theo3.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/theo4.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/exercise1.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/exercise2.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/exercise5.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/exercise6.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/exercise7.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/exercise8.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Custom_Objects/cmake-build-debug/CMakeFiles/rebuild_cache.dir

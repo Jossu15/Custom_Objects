@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.27)
+project(Custom_Objects)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Custom_Objects mathpoints.cpp)
+add_executable(theo1 bankaccount.cpp)
+add_executable(theo2 newaccount.cpp)
+add_executable(theo3 bankaccountmethods.cpp)
+add_executable(theo4 simplerational.cpp)
+add_executable(exercise1 add_continue.cpp)
+add_executable(exercise2 distance_point.cpp)
+add_executable(exercise5 reduce_RT.cpp)
+add_executable(exercise6 reduce_RT_r.cpp)
+add_executable(exercise7 point_half.cpp)
+add_executable(exercise8 point_classes.cpp)
